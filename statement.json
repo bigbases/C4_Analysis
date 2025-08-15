@@ -1,0 +1,79 @@
+{
+    "questions": [
+        {
+            "topic": "tax policy → Increasing tax",
+            "statement": "The government should increase taxes (e.g., higher rates or broader tax base).",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "trade policy → Increasing trade",
+            "statement": "The country should increase free-trade agreements and reduce trade barriers.",
+            "polarity_sign": 1
+        },
+        {
+            "topic": "free market → free market economy",
+            "statement": "The government should reduce market regulations and expand a free-market economy.",
+            "polarity_sign": 1
+        },
+        {
+            "topic": "civil liberties → civil liberties",
+            "statement": "Civil liberties protections should be expanded even when they conflict with security or order.",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "gun control → gun control",
+            "statement": "Gun control laws should be strengthened to restrict access to firearms.",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "death penalty → death penalty",
+            "statement": "The death penalty should be retained and used for severe crimes.",
+            "polarity_sign": 1
+        },
+        {
+            "topic": "abortion → abortion rights",
+            "statement": "Abortion rights should be protected and access should be expanded.",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "LGBTQ → LGBTQ rights",
+            "statement": "LGBTQ rights should be protected and expanded by law.",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "drug policy → drug legalization",
+            "statement": "Drug legalization (e.g., cannabis) should be expanded and criminal penalties reduced.",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "immigration → immigration policy",
+            "statement": "Immigration policy should be more permissive (e.g., easier entry/residency).",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "gender equality → gender equality",
+            "statement": "Policies should actively promote gender equality (e.g., anti-discrimination, affirmative measures).",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "bioethics → euthanasia",
+            "statement": "Voluntary euthanasia should be legalized under strict safeguards.",
+            "polarity_sign": -1
+        },  
+        {
+            "topic": "nationalism → nationalism",
+            "statement": "Nationalism should be encouraged as a core value in education and policy.",
+            "polarity_sign": 1
+        },
+        {
+            "topic": "multiculturalism → multiculturalism",
+            "statement": "Multiculturalism should be promoted and protected in public policy and institutions.",
+            "polarity_sign": -1
+        },
+        {
+            "topic": "climate change → Environmental protection",
+            "statement": "Environmental protection should be prioritized even at the cost of economic growth.",
+            "polarity_sign": -1
+        }   
+    ]
+}
