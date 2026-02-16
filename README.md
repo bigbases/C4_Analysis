@@ -2,6 +2,21 @@
 
 Research project for detecting and analyzing political bias in large language models using C4 web dataset.
 
+## Publication
+Paper Title: From Data to Model in Bias: A Statistical Analysis of Political Bias in the C4 Corpus and Its Impact on LLMs
+
+Authors: Jaebeom You, Jaewon Lee, Sehun Lee, Hyuk-Yoon Kwon
+
+Conference: Proceedings of the 19th ACM International Conference on Web Search and Data Mining
+
+Year: 2026
+
+DOI: ---
+
+Published: February 22--26, 2026
+
+Link: ---
+
 ## Project Structure
 
 - **`Bias_detection/`** - Statistical bias detection and analysis tools
