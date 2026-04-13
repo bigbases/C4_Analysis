@@ -12,9 +12,6 @@ Research project for detecting and analyzing political bias in large language mo
   year={2026}
 }
 ```
-Published: February 22--26, 2026
-
-Link: ---
 
 ## Project Structure
 
