@@ -3,16 +3,15 @@
 Research project for detecting and analyzing political bias in large language models using C4 web dataset.
 
 ## Publication
-Paper Title: From Data to Model in Bias: A Statistical Analysis of Political Bias in the C4 Corpus and Its Impact on LLMs
-
-Authors: Jaebeom You, Jaewon Lee, Sehun Lee, Hyuk-Yoon Kwon
-
-Conference: Proceedings of the 19th ACM International Conference on Web Search and Data Mining
-
-Year: 2026
-
-DOI: ---
-
+```
+@inproceedings{you2026geo,
+  title={Geo-Personalization Bias in News Search: Analyzing Filter Bubbles in Search Engine Results with Multi-Perspective LLM Annotation},
+  author={You, Jaebeom and Hong, Seung-Kyu and Liu, Ling and Lee, Kisung and Kwon, Hyuk-Yoon},
+  booktitle={Proceedings of the Nineteenth ACM International Conference on Web Search and Data Mining},
+  pages={850--859},
+  year={2026}
+}
+```
 Published: February 22--26, 2026
 
 Link: ---
